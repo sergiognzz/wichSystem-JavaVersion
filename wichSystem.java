@@ -1,7 +1,7 @@
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-public class WhichSystem {
+public class wichSystem {
     public static void main(String[] args) {
 
        if  (args.length == 0) {
